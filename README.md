@@ -7,7 +7,7 @@ complex lipid mixtures (6 species characteristic of eukaryotic cells). These fil
 deuterium parameters, lipid lateral density distribution heat maps, cluster event analysis, lipid headgroup tilt angles, 
 lipid tail splay angles, and lateral pressure profiles. The scripts generate raw time series/matrices outputs that can be further 
 processed for statistical analysis and visualization. These files are intended as templates, please read the comments carefully and 
-motify them as needed to suit your specific needs. 
+modify them as needed to suit your specific needs. 
 Final coordinate and topology files of the twelve (12) systems examined for this study can be accessed at: 
 [https://zenodo.org/records/15376633](https://zenodo.org/records/16040132). 
 Trajectories are available upon request (jli436@buffalo.edu | vmonje@buffalo.edu)
