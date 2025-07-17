@@ -1,4 +1,5 @@
-Associated publication: (under review)
+Associated publication: Li, J; Thomson, S; Monje, V. (2025) Impact of system size on the biophysical properties of multi-component 
+lipid bilayers: a systematic study using molecular synamics simulations (submitted)
 
 Description: This repository contains files used to perform analysis of molecular dynamics simulation trajectories of lipid membranes. 
 These were computed to examine the dependence of such properties on membrane patch size in all atom simulations of complex lipid mixtures
